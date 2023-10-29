@@ -1,7 +1,7 @@
 # OpenVPN server - Automated installing script
 
 # Prepare your Linux Server:
-`You can use a virtual private server (VPS) from providers like´ [Solia.Cloud](https://solia.cloud/)
+`You can use a virtual private server (VPS) from providers like` [Solia.Cloud](https://solia.cloud/)
 
 # SSH into Your Server:
 *Log in to your server via SSH:*
